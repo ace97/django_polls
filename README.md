@@ -1,3 +1,3 @@
 A simple Django application to for polls
 
-#testing stage
+Big Thanks to Avinash Jain
